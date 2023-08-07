@@ -1,0 +1,15 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+ul{
+    color: red;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: red;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
